@@ -11,7 +11,7 @@ The goal is to validate the core functional flows of the application,
 document defects, and deliver a final quality report.
 
 🔗 **Application under test:** https://demo.opencart.com  
-🔗 **Jira Board:** [OCT Board](https://miguelsilvaguedes1.atlassian.net/jira/software/c/projects/OCT/boards/102/backlog?atlOrigin=eyJpIjoiNDM0NTNiMGRiYjFmNDcyYmE0ZWExOWU3YjMzOTNlNTUiLCJwIjoiaiJ9)
+🔗 **Jira Board:** [OCT Board](https://miguelsilvaguedes1.atlassian.net/jira/software/c/projects/OCT/boards/135/backlog?selectedIssue=OCT-31&atlOrigin=eyJpIjoiYWFiZGI5YWI0NjhmNDA1ODlkMGQzZWNiMTVjNjgyMDkiLCJwIjoiaiJ9)
 
 ---
 
